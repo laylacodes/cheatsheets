@@ -1,4 +1,4 @@
-# @codinglayla's cheatsheets
+# @pilatesdev's cheatsheets
 
 This is a repository to store all the cheatsheets I've created! 
 <br>
